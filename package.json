@@ -1,0 +1,11 @@
+{
+  "name": "kelmer-building-services",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jamiemac87/kelmer-building-services.git",
+  "author": "Jamie McInerney <jamie@flypay.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
+}
